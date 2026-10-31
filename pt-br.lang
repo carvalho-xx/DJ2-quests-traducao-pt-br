@@ -2008,7 +2008,7 @@ dj2.quest.db.471.desc=§c§lIMPORTANTE:§r§c Sempre que o Livro de Missões mud
 
 dj2.quest.db.472.title=O que é o JEI?
 
-dj2.quest.db.472.desc=§cJEI§r, ou §cJust Enough Items§r, é o mod mais baixado de todos os tempos. Ele é usado para pesquisar itens e receitas adicionados por mods. Por isso, é crucial entender como o §cJEI§r funciona. Este pacote também inclui o §cJEI Utilities§r, que adiciona funcionalidades extras aos favoritos e um painel de histórico de receitas.%n%nClicar com o botão esquerdo em um item ou pressionar a tecla de receitas (padrão: §6R§r) exibe todas as receitas para fabricar esse item — nada será exibido se não houver receitas para fabricá-lo.%n%nClicar com o botão direito em um item ou pressionar a tecla de usos (padrão: §6U§r) exibe todas as receitas que usam esse item — novamente, se não houver nenhuma, nada acontecerá.%n%nVocê pode usar a roda do mouse para mudar de página ao visualizar receitas. Você também pode usar a tecla §6Backspace§r para voltar à receita visualizada anteriormente.%n%nNo lado esquerdo do visualizador de receitas, você vê todos* os lugares onde essa receita pode ser feita.%n *devido a problemas de compatibilidade, são apenas a maioria, não literalmente todos.%n%nSe você clicar no título da página, poderá “Mostrar todas as receitas”, que lista todas as receitas do jogo! %n%nPressionar a tecla de favoritos (padrão: §6A§r) salva o item no lado esquerdo do seu inventário — use isso para acompanhar o que você pretendia fazer 3 segundos atrás.%n%n%n§cJEI Utilities§r Recursos:%nNo canto inferior direito do painel de pesquisa, aparece um histórico dos itens visualizados mais recentemente.%n%nAo visualizar uma receita específica, pressionar a tecla de favoritos salvará essa receita específica como favorito. Pressionar §6CTRL§r enquanto pressiona a tecla de favoritos impedirá que o ingrediente seja favoritado, a menos que seja o item resultante. Ao visualizar a receita de um favorito marcado dessa forma, a receita específica salva será exibida primeiro.%n%nEnquanto mantém pressionada a tecla de exibição da prévia da receita (padrão: §6CTRL§r), a receita será exibida em linha com o restante do conteúdo. %n%nAo pressionar a tecla de transferir receita (individual) (padrão: §6CTRL + W§r) ou a tecla de transferir receita (MÁX.) (padrão: §6CTRL + T§r) enquanto passa o cursor sobre um item com uma receita favoritada e dentro do inventário relevante, os itens necessários serão transferidos; se a transferência falhar, os itens ausentes serão destacados.%n%nAo pressionar a tecla de pegar favorito (padrão: §6Clique do meio§r), você pode ajustar a posição dos favoritos.%n%n%n%nComo pesquisar com o §cJEI§r:%n%nO §cJEI§r usa correspondência de substring, ou seja, pesquisar “coal” encontra “Coal” e “Charcoal”.%n%nVocê pode pesquisar em um mod usando - eg. "botania” encontra tudo do mod Botania.%n%nVocê pode pesquisar duas coisas separadas colocando o símbolo “or” do §cJEI§r, uma barra vertical |, entre elas; ela geralmente fica acima da tecla Enter.%n%nVocê pode excluir resultados adicionando um – antes deles; por exemplo, “-@minecraft” encontra tudo o que não é do Minecraft Vanilla.%n%nVocê também pode combinar esses recursos. Por exemplo, enquanto “@alchem” mostraria itens tanto de Alchemistry quanto de Blood Magic: Alchemical Wizardry, você pode usar “@alchem -@blood” para mostrar apenas Alchemistry, ou, por exemplo, usar “@alchem -@blood|singu” para pesquisar tudo em Alchemistry E Singularities.%n%nSe não conseguir encontrar um item em um baú ou em um campo de criação, o §cJEI§r permite clicar duas vezes na barra de pesquisa para alternar o destaque, que destacará qualquer item em um inventário que corresponda à sua pesquisa.%n%nSe quiser importar uma receita para uma Mesa de Trabalho sem precisar montá-la, basta visualizar a receita no §cJEI§r enquanto estiver na interface de criação e clicar com o botão esquerdo no botão “”. Isso moverá todos os itens para o campo de criação. Se quiser mover o máximo possível de itens do seu inventário para o campo de criação, mantenha Shift pressionado enquanto clica no botão “”.
+dj2.quest.db.472.desc=§cJEI§r, ou §cJust Enough Items§r, é o mod mais baixado de todos os tempos. Ele é usado para pesquisar itens e receitas adicionados por mods. Por isso, é crucial entender como o §cJEI§r funciona. Este pacote também inclui o §cJEI Utilities§r, que adiciona funcionalidades extras aos favoritos e um painel de histórico de receitas.%nClicar com o botão esquerdo em um item ou pressionar a tecla de receitas (padrão: §6R§r) exibe todas as receitas para fabricar esse item — nada será exibido se não houver receitas para fabricá-lo.%nClicar com o botão direito em um item ou pressionar a tecla de usos (padrão: §6U§r) exibe todas as receitas que usam esse item — novamente, se não houver nenhuma, nada acontecerá.%nVocê pode usar a roda do mouse para mudar de página ao visualizar receitas. Você também pode usar a tecla §6Backspace§r para voltar à receita visualizada anteriormente.%nNo lado esquerdo do visualizador de receitas, você vê todos\* os lugares onde essa receita pode ser feita. \*devido a problemas de compatibilidade, são apenas a maioria, não literalmente todos.%nSe você clicar no título da página, poderá “Mostrar todas as receitas”, que lista todas as receitas do jogo!%nPressionar a tecla de favoritos (padrão: §6A§r) salva o item no lado esquerdo do seu inventário — use isso para acompanhar o que você pretendia fazer 3 segundos atrás.%n§cJEI Utilities§r Recursos: No canto inferior direito do painel de pesquisa, aparece um histórico dos itens visualizados mais recentemente.%nAo visualizar uma receita específica, pressionar a tecla de favoritos salvará essa receita específica como favorito. Pressionar §6CTRL§r enquanto pressiona a tecla de favoritos impedirá que o ingrediente seja favoritado, a menos que seja o item resultante. Ao visualizar a receita de um favorito marcado dessa forma, a receita específica salva será exibida primeiro.%nEnquanto mantém pressionada a tecla de exibição da prévia da receita (padrão: §6CTRL§r), a receita será exibida em linha com o restante do conteúdo.%nAo pressionar a tecla de transferir receita (individual) (padrão: §6CTRL + W§r) ou a tecla de transferir receita (MÁX.) (padrão: §6CTRL + T§r) enquanto passa o cursor sobre um item com uma receita favoritada e dentro do inventário relevante, os itens necessários serão transferidos; se a transferência falhar, os itens ausentes serão destacados.%nAo pressionar a tecla de pegar favorito (padrão: §6Clique do meio§r), você pode ajustar a posição dos favoritos.%nComo pesquisar com o §cJEI§r:%nO §cJEI§r usa correspondência de substring, ou seja, pesquisar “coal” encontra “Coal” e “Charcoal”.%nVocê pode pesquisar em um mod usando @ - ex.: "@botania" encontra tudo do mod Botania.%nVocê pode pesquisar duas coisas separadas colocando o símbolo “or” do §cJEI§r, uma barra vertical |, entre elas; ela geralmente fica acima da tecla Enter.%nVocê pode excluir resultados adicionando um – antes deles; por exemplo, “-@minecraft” encontra tudo o que não é do Minecraft Vanilla.%nVocê também pode combinar esses recursos. Por exemplo, enquanto “@alchem” mostraria itens tanto de Alchemistry quanto de Blood Magic: Alchemical Wizardry, você pode usar “@alchem -@blood” para mostrar apenas Alchemistry, ou, por exemplo, usar “@alchem -@blood|singu” para pesquisar tudo em Alchemistry E Singularities.%nSe não conseguir encontrar um item em um baú ou em um campo de criação, o §cJEI§r permite clicar duas vezes na barra de pesquisa para alternar o destaque, que destacará qualquer item em um inventário que corresponda à sua pesquisa.%nSe quiser importar uma receita para uma Mesa de Trabalho sem precisar montá-la, basta visualizar a receita no §cJEI§r enquanto estiver na interface de criação e clicar com o botão esquerdo no botão “+”. Isso moverá todos os itens para o campo de criação. Se quiser mover o máximo possível de itens do seu inventário para o campo de criação, mantenha Shift pressionado enquanto clica no botão “+”.
 
 dj2.quest.db.473.title=Multijogador?
 
@@ -2020,7 +2020,7 @@ dj2.quest.db.474.desc=Atalhos de teclado, não estratégias apelonas para contor
 
 dj2.quest.db.475.title=O que é Divine Journey 2?
 
-dj2.quest.db.475.desc=Divine Journey 2, frequentemente abreviado como “DJ2″, é um modpack expert focado em DivineRPG e na automação de Mods de Magia.%nDJ1, geralmente conhecido como Divine Journey, era um modpack com objetivos semelhantes, criado para a versão 1.7.10 em 2017. Você não precisa jogar DJ1 para entender DJ2.%n%nDJ2 é um Modpack Expert. Isso significa coisas diferentes para pessoas diferentes, mas aqui usamos o termo para dizer que:%n%n1. O modpack levará muito tempo para ser concluído.%n%n2. O modpack é estruturado em torno da progressão – a maioria das coisas é bloqueada, e muitas receitas foram alteradas em relação às originais.%n%n3. As receitas serão caras e exigirão automação – às vezes mínima, às vezes extrema. Felizmente, há muitas ferramentas que ajudam nessa empreitada, e elas serão desbloqueadas aos poucos durante a primeira metade do modpack. Applied Energistics será seu amigo; você precisará criar ou processar automaticamente quase tudo que tiver uma missão.%n%n%nO objetivo do modpack é “Encontrar o Sentido da Vida”, que já está dentro de uma conveniente bolsa no seu inventário ao iniciar o jogo, então não deve ser tão difícil… Ah. Ah, espere um segundo. Precisa de algum tipo de Chave para abrir… A “Chave para o Infinito”? Ah. Ah, não. Isso vai ser difícil.%n%nAssim como em Divine Journey, você precisará de “Lingotes de Infinito Infinitos”. Embora desta vez não sejam realmente “infinitos”, você precisará de MUITOS para criar a Chave para o Infinito, e o melhor é fazer isso usando um Baú Criativo.%n%nEntãooo, o objetivo do modpack é basicamente chegar aos itens Criativos… Não é muito original, eu sei.%n%n%nMas o que É original é a progressão. Mais de 600 itens personalizados únicos e mais de 5000 receitas alteradas vão guiar você até o fim… Boa sorte!%n%n%nA estrutura do modpack é a seguinte:%n%n1. Início do jogo: Minecraft Vanilla, Tinkers’ Construct, Totemic, Roots, Immersive Engineering, Mekanism no início do jogo, armazenamento de itens do AE2.%n%n2. Grande Bloco de Exploração:%n – Etapa 1: Extra Utilities Pt.1, Open Blocks, Mob Grinding Utils%n – Etapa 2: Thermal Expansion, EnderIO Pt.1, Terminal de Criação e Armazenamento de Fluidos do AE2%n – Etapa 3: Industrial Foregoing, alguns RFTools, SolarFlux Reborn, QuantumFlux%n – Etapa 4: Actually Additions, EnderIO Pt. 2, Simply Jetpacks%n – Etapa 5: Mekanism Pt. 2, Extra Utilities Pt. 2, Criação e Processamento Automáticos do AE2, AE2 sem Fio, Ender Utilities, Ender Storage.%n%n4. Grande Bloco de Magia:%n – Etapa 1: AbyssalCraft Pt. 1, início de DivineRPG, Blood Magic Pt. 1, EvilCraft Pt. 1%n – Etapa 2: AbyssalCraft Pt. 2, Botania Pt. 1%n – Etapa 3: Botania Pt. 2, Blood Magic Pt. 2, EvilCraft Pt. 2%n – Etapa 4: Thaumcraft%n – Etapa 5: Bewitchment%n – Etapa 6: Thaumic Augmentation, Thaumic Energistics%n – Etapa 7: fim de DivineRPG, LightningCraft, Extreme Reactors%n – Etapa 8: Astral Sorcery, AgriCraft, Extra Utilities do fim do jogo, Galacticraft%n%n5. Fim do jogo: Draconic Evolution, Alchemistry, Dimensões do RFTools, Avaritia, Itens Criativos, Desbloquear o Sentido da Vida.
+dj2.quest.db.475.desc=Divine Journey 2, frequentemente abreviado como “DJ2″, é um modpack expert focado em DivineRPG e na automação de Mods de Magia. DJ1, geralmente conhecido como Divine Journey, era um modpack com objetivos semelhantes, criado para a versão 1.7.10 em 2017\. Você não precisa jogar DJ1 para entender DJ2.%nDJ2 é um Modpack Expert. Isso significa coisas diferentes para pessoas diferentes, mas aqui usamos o termo para dizer que:%n1\. O modpack levará muito tempo para ser concluído.%n2\. O modpack é estruturado em torno da progressão – a maioria das coisas é bloqueada, e muitas receitas foram alteradas em relação às originais.%n3\. As receitas serão caras e exigirão automação – às vezes mínima, às vezes extrema. Felizmente, há muitas ferramentas que ajudam nessa empreitada, e elas serão desbloqueadas aos poucos durante a primeira metade do modpack. Applied Energistics será seu amigo; você precisará criar ou processar automaticamente quase tudo que tiver uma missão.%nO objetivo do modpack é “Encontrar o Sentido da Vida”, que já está dentro de uma conveniente bolsa no seu inventário ao iniciar o jogo, então não deve ser tão difícil… Ah. Ah, espere um segundo. Precisa de algum tipo de Chave para abrir… A “Chave para o Infinito”? Ah. Ah, não. Isso vai ser difícil.%nAssim como em Divine Journey, você precisará de “Lingotes de Infinito Infinitos”. Embora desta vez não sejam realmente “infinitos”, você precisará de MUITOS para criar a Chave para o Infinito, e o melhor é fazer isso usando um Baú Criativo.%nEntãooo, o objetivo do modpack é basicamente chegar aos itens Criativos… Não é muito original, eu sei.%nMas o que É original é a progressão. Mais de 600 itens personalizados únicos e mais de 5000 receitas alteradas vão guiar você até o fim… Boa sorte!%nA estrutura do modpack é a seguinte:%n1\. Início do jogo: Minecraft Vanilla, Tinkers' Construct, Totemic, Roots, Immersive Engineering, Mekanism no início do jogo, armazenamento de itens do AE2.%n2\. Grande Bloco de Exploração: Better Nether, Twilight Forest (opcional), Atum 2, Erebus, Aether I, Iceika.%n3\. Grande Bloco de Tecnologia:%n \* Etapa 1: Extra Utilities Pt.1, Open Blocks, Mob Grinding Utils%n \* Etapa 2: Thermal Expansion, EnderIO Pt.1, Terminal de Criação e Armazenamento de Fluidos do AE2%n \* Etapa 3: Industrial Foregoing, alguns RFTools, SolarFlux Reborn, QuantumFlux%n \* Etapa 4: Actually Additions, EnderIO Pt. 2, Simply Jetpacks%n \* Etapa 5: Mekanism Pt. 2, Extra Utilities Pt. 2, Criação e Processamento Automáticos do AE2, AE2 sem Fio, Ender Utilities, Ender Storage.%n4\. Grande Bloco de Magia:%n \* Etapa 1: AbyssalCraft Pt. 1, início de DivineRPG, Blood Magic Pt. 1, EvilCraft Pt. 1%n \* Etapa 2: AbyssalCraft Pt. 2, Botania Pt. 1%n \* Etapa 3: Botania Pt. 2, Blood Magic Pt. 2, EvilCraft Pt. 2%n \* Etapa 4: Thaumcraft%n \* Etapa 5: Bewitchment%n \* Etapa 6: Thaumic Augmentation, Thaumic Energistics%n \* Etapa 7: fim de DivineRPG, LightningCraft, Extreme Reactors%n \* Etapa 8: Astral Sorcery, AgriCraft, Extra Utilities do fim do jogo, Galacticraft%n5\. Fim do jogo: Draconic Evolution, Alchemistry, Dimensões do RFTools, Avaritia, Itens Criativos, Desbloquear o Sentido da Vida.
 
 dj2.quest.db.476.title=Núcleo de Feixe? Hã, mais parece Núcleo de Sumir!
 
@@ -3410,25 +3410,25 @@ dj2.quest.db.822.title=Rosa? Talvez. Alu? Alumita!
 
 dj2.quest.db.822.desc=Use Baldes de Lava nos Drenos da Fundição para inserir Lava na sua Fundição! Você pode inserir Água da mesma forma para criar Obsidiana dentro da Fundição. Agora crie Alumita dentro da Fundição combinando Obsidiana com Alumínio e Ferro! Em seguida, despeje um pouco da Alumita resultante em um Molde de Cabeça de Picareta! Com isso, você pode criar uma Picareta de Alumita capaz de minerar qualquer coisa até o nível da Obsidiana!%n%nNota: Você pode automatizar a inserção de Lava e Água usando Dutos de Fluidos, aos quais você já tem acesso.
 
-dj2.quest.db.823.title=EU SOU ARGAMASSA!
+dj2.quest.db.823.title=EU SOU GROUT!
 
-dj2.quest.db.823.desc=Fabrique bastante Argamassa! Você vai precisar.
+dj2.quest.db.823.desc=Fabrique bastante Argamassa (Grout)! Você vai precisar dela.
 
 dj2.quest.db.824.title=Coletor de Areia
 
-dj2.quest.db.824.desc=Colete um pouco de Areia com o Escavador de Minérios!
+dj2.quest.db.824.desc=Colete um pouco de Areia com o Ore Excavator!
 
 dj2.quest.db.825.title=Coletor de Cascalho
 
-dj2.quest.db.825.desc=Colete um pouco de Cascalho com o Escavador de Minérios!
+dj2.quest.db.825.desc=Colete um pouco de Cascalho com o Ore Excavator!
 
 dj2.quest.db.826.title=Coletor de Argila
 
-dj2.quest.db.826.desc=Colete um pouco de Argila com o Escavador de Minérios!
+dj2.quest.db.826.desc=Colete um pouco de Argila com o Ore Excavator!
 
 dj2.quest.db.827.title=Muito Metálico!
 
-dj2.quest.db.827.desc=“Funda” sua Malha de Ferro Bruto usando a Essência Ardente que você criou! Basta jogar a Essência Ardente e a Malha de Ferro Bruto em uma poça d'água e voilà! Você terá uma Barra de Ferro!
+dj2.quest.db.827.desc=“Funda” sua Malha de Ferro Bruta usando a Essência Ardente que você criou! Basta jogar a Essência Ardente e a Malha de Ferro Bruta em uma poça d'água e voilà! Você terá uma Barra de Ferro!
 
 dj2.quest.db.828.title=O Poder do Sol!
 
@@ -3436,11 +3436,11 @@ dj2.quest.db.828.desc=Combine um pouco de Carvão com Corante Amarelo para criar
 
 dj2.quest.db.829.title=Monte a malha!
 
-dj2.quest.db.829.desc=Combine 2 blocos de Minério de Ferro com seu Martelo Bruto para criar uma Malha de Ferro Bruta.
+dj2.quest.db.829.desc=Combine 2 blocos de Minério de Ferro com seu Martelo Rústico para criar uma Malha de Ferro Bruta.
 
 dj2.quest.db.830.title=Minere!
 
-dj2.quest.db.830.desc=Obtenha 15 blocos de Pedregulho ou qualquer material de pedra básica que encontrar no subsolo! NÃO SE ESQUEÇA DO ESCAVADOR DE MINÉRIOS!
+dj2.quest.db.830.desc=Obtenha 15 blocos de Pedregulho ou qualquer material de pedra básica que encontrar no subsolo! NÃO SE ESQUEÇA DO ORE ESCAVATOR!
 
 dj2.quest.db.831.title=Picareta antes de fabricar?
 
@@ -3454,13 +3454,13 @@ dj2.quest.db.833.title=Melhorias de gaveta
 
 dj2.quest.db.833.desc=Use a Obsidiana que você acabou de coletar para criar algumas Melhorias de Gaveta básicas! Você pode usá-las para aumentar a capacidade das suas Gavetas!
 
-dj2.quest.db.834.title=FERRAMENTA-7
+dj2.quest.db.834.title=TOOL-7
 
-dj2.quest.db.834.desc=Ferramenta-7? O que isso significa? Bem, não é Ferramenta-8; ainda dá tempo de criar novas Ferramentas do Tinkers'! >:D
+dj2.quest.db.834.desc=Tool-7? O que isso significa? Bom, não é Tool-8 — ou seja, não é tarde demais (too late) para criar novas e incríveis ferramentas do Tinkers'! &gt;:D
 
-dj2.quest.db.835.title=____ Moldes
+dj2.quest.db.835.title=\_\_\_\_\_ Padrões
 
-dj2.quest.db.835.desc=Crie alguns Moldes em Branco, que permitem criar Peças do Tinkers'!
+dj2.quest.db.835.desc=Crie alguns Padrões em Branco, que permitem criar Peças do Tinkers'!
 
 dj2.quest.db.836.title=“Blub-blob”
 
@@ -3468,11 +3468,11 @@ dj2.quest.db.836.desc=- diz o metal derretido quando é despejado em uma Bacia d
 
 dj2.quest.db.837.title=Diga olá ao Tinkers'!
 
-dj2.quest.db.837.desc=Derreta seu Rejunte para transformá-lo em Tijolos Chamuscados e entre no Tinkers' Construct!
+dj2.quest.db.837.desc=Derreta sua Argamassa (Grout) para transformá-la em Tijolos Chamuscados e entre no Tinkers' Construct!
 
 dj2.quest.db.838.title=Martelo Rústico
 
-dj2.quest.db.838.desc=Crie um Martelo Rústico! Esta ferramenta é usada para criar Malha de Ferro Bruto a partir de Minério de Ferro.
+dj2.quest.db.838.desc=Crie um Martelo Rústico! Esta ferramenta é usada para criar Malha de Ferro Bruta a partir de Minério de Ferro.
 
 dj2.quest.db.839.title=Que irônico
 
@@ -3484,31 +3484,31 @@ dj2.quest.db.840.desc=Confira o mod Spartan Shields no JEI e crie um dos escudos
 
 dj2.quest.db.841.title=Pedra Azul Brilhante! :O
 
-dj2.quest.db.841.desc=Mina alguns DIAMANTES!
+dj2.quest.db.841.desc=Minere alguns DIAMANTES!
 
 dj2.quest.db.842.title=Quer ser Sethbling
 
-dj2.quest.db.842.desc=Mina um pouco de redstone! Ela é encontrada em baixas elevações subterrâneas, perto do nível da lava!
+dj2.quest.db.842.desc=Minere um pouco de redstone! Ela é encontrada em baixas elevações subterrâneas, perto do nível da lava!
 
 dj2.quest.db.843.title=Excesso de Padrões
 
-dj2.quest.db.843.desc=Tem padrões demais? Cientistas vêm trabalhando há muito tempo em uma possível solução e só recentemente encontraram uma: por apenas $9.99 por mês e uma assinatura vitalícia, um Baú de Padrões novinho em folha pode ser SEU! Basta assinar aqui e adicionar o número do seu cartão de crédito com os 3 dígitos do verso, e esta maravilhosa criação estará em SUAS mãos!%n…%nBrincadeira, é grátis (desde que você tenha os materiais necessários para fazer um)...!
+dj2.quest.db.843.desc=Tem padrões demais? Cientistas vêm trabalhando há muito tempo em uma possível solução e só recentemente encontraram uma: por apenas $9.99 por mês e uma assinatura vitalícia, um Baú de Padrões novinho em folha pode ser SEU! Basta assinar aqui e adicionar o número do seu cartão de crédito com os 3 dígitos do verso, e esta maravilhosa criação estará em SUAS mãos! … Brincadeira, é grátis (desde que você tenha os materiais necessários para fabricá-lo)...!
 
 dj2.quest.db.844.title=Não queime os dedos
 
-dj2.quest.db.844.desc=Crie uma Mesa de Moldagem para poder despejar seus metais derretidos em moldes! O molde mais importante é o Molde de Lingote, com o qual você pode criar (adivinhou) lingotes!
+dj2.quest.db.844.desc=Crie uma Mesa de Fundição para poder despejar seus metais derretidos em moldes! O molde mais importante é o Molde de Lingote, com o qual você pode criar (adivinhou) lingotes!
 
 dj2.quest.db.845.title=O núcleo da sua Fundição
 
-dj2.quest.db.845.desc=Minere um pouco de Redstone, com a qual você pode criar um Controlador de Fundição! Você pode aprender mais sobre essa estrutura multibloco no livro Materials and You, do Tinkers’ Construct.%n%nPara construir essa estrutura multibloco, você precisa de uma base retangular de Tijolos Chamuscados e de uma parede ao redor do espaço vazio acima dessa base, nos quatro lados. Deve haver um Controlador de Fundição como parte dessas paredes, e um Tanque Chamuscado no mesmo nível que o Controlador de Fundição. O piso e as paredes não precisam estar conectados.%n%nA menor Fundição tem tamanho 3×2×3, consome 3 Tijolos Chamuscados, 1 Controlador de Fundição e 1 Tanque Chamuscado. Isso cria uma Fundição capaz de fundir apenas um único item por vez, que comporta pouco mais de um balde de fluido e não tem como inserir ou extrair fluidos.%n%nRealmente incrível, será que a maravilha da inovação nunca vai acabar?
+dj2.quest.db.845.desc=Minere um pouco de Redstone, com a qual você pode criar um Controlador de Fundição! Você pode aprender mais sobre essa estrutura multibloco no livro Materials and You, do Tinkers’ Construct.%n%nPara construir essa estrutura multibloco, você precisa de uma base retangular de Tijolos Chamuscados e de uma parede ao redor do espaço vazio acima dessa base, nos quatro lados. Deve haver um Controlador de Fundição como parte dessas paredes, e um Tanque Chamuscado no mesmo nível que o Controlador de Fundição. O piso e as paredes não precisam estar conectados.%n%nA menor Fundição tem tamanho 3×2×3, consome 3 Tijolos Chamuscados, 1 Controlador de Fundição e 1 Tanque Chamuscado. Isso cria uma Fundição capaz de fundir a "impressionante" quantidade de um único item por vez, que comporta pouco mais de um balde de fluido e não tem como inserir ou extrair fluidos.%n%nRealmente incrível, será que a maravilha da inovação nunca vai acabar?
 
 dj2.quest.db.846.title=§dMochila Épica
 
 dj2.quest.db.846.desc=Confira o mod Simply Backpacks e crie uma Mochila Épica! Você pode guardar uma enorme quantidade de itens nela, usando a tecla de atalho Abrir Mochilas para abri-la, e até equipá-la em um slot de acessório!
 
-dj2.quest.db.847.title=Hora de começar a fabricar as PEÇAS!
+dj2.quest.db.847.title=Hora da FESTA das peças!
 
-dj2.quest.db.847.desc=Use vários materiais para criar Peças com os Moldes da Mesa de Estêncil! Por exemplo, 3 pedaços de Pedregulho com um Molde de Cabeça de Picareta criarão uma Cabeça de Picareta de Pedra! Para Peças feitas de metal, porém, você precisará usar a Fundição, derreter o metal e despejá-lo em um Molde, como um Molde de Cabeça de Picareta!
+dj2.quest.db.847.desc=Use vários materiais para criar Peças com os Padrões da Mesa de Moldes! Por exemplo, 3 pedaços de Pedregulho com um Padrão de Cabeça de Picareta criarão uma Cabeça de Picareta de Pedra! Para Peças feitas de metal, porém, você precisará usar a Fundição, derreter o metal e despejá-lo em um Molde, como um Molde de Cabeça de Picareta!
 
 dj2.quest.db.848.title=Tudo começa do mesmo jeito…
 
@@ -3516,15 +3516,15 @@ dj2.quest.db.848.desc=Você sabe o que fazer: consiga madeira!
 
 dj2.quest.db.849.title=Ah não, está vazando!
 
-dj2.quest.db.849.desc=Crie alguns Drenos de Pedra Fundida para despejar seu líquido por Torneiras de Pedra Fundida! Se quiser direcionar o líquido para mais longe, você pode usar Canais de Fundição!
+dj2.quest.db.849.desc=Crie alguns Drenos de Tijolos Chamuscados para despejar seu líquido por Torneiras de Tijolos Chamuscados! Se quiser direcionar o líquido para mais longe, você pode usar Canais de Fundição!
 
 dj2.quest.db.850.title=Tanque cheio de lava
 
-dj2.quest.db.850.desc=Crie e encha o Tanque com lava! Você o usará para criar obsidiana dentro da Fundição.%n%nEsta missão é opcional – você pode usar qualquer outro Tanque de Fluidos disponível neste momento, porém o Tanque Portátil da Thermal Expansion é uma boa opção por alguns motivos. %nO primeiro é que, ao clicar com o botão direito usando uma Chave Crescente, ele despeja automaticamente o fluido contido em um tanque abaixo. %nO segundo é que os Tanques podem ser encantados com Armazenamento, o que multiplica sua capacidade máxima.
+dj2.quest.db.850.desc=Crie e encha o Tanque com lava! Você o usará para criar obsidiana dentro da Fundição.%n%nEsta missão é opcional – você pode usar qualquer outro Tanque de Fluidos disponível neste momento, porém o Tanque Portátil da Thermal Expansion é uma boa opção por alguns motivos. %nO primeiro é que, ao clicar com o botão direito usando uma Crescent Wrench, ele despeja automaticamente o fluido contido em um tanque abaixo. %nO segundo é que os Tanques podem ser encantados com Armazenamento, o que multiplica sua capacidade máxima.
 
-dj2.quest.db.851.title=Uma bancada de trabalho!
+dj2.quest.db.851.title=Uma Mesa de Trabalho! 
 
-dj2.quest.db.851.desc=Use sua grade de criação 2×2 para criar um Machado de Pedra sem danos, uma Picareta de Pedra e 2 Bases de Criação; em seguida, combine-as para criar uma Bancada de Trabalho!
+dj2.quest.db.851.desc=Use sua grade de criação 2×2 para criar um Machado de Pedra sem danos, uma Picareta de Pedra e 2 Bases de Criação; em seguida, combine-os para criar uma Mesa de Trabalho!
 
 dj2.quest.db.852.title=Picareta de Pedra
 
@@ -3536,7 +3536,7 @@ dj2.quest.db.853.desc=Crie qualquer tipo de Gaveta do mod Storage Drawers! Você
 
 dj2.quest.db.854.title=Tochas de Pedra
 
-dj2.quest.db.854.desc=Você não precisará mais levar madeira extra para fazer gravetos e criar tochas! Basta juntar 2 pedaços de Pedra para obter Hastes de Pedra e usá-las para criar Tochas de Pedra!
+dj2.quest.db.854.desc=Você não precisará mais levar madeira extra para fazer gravetos e criar tochas! Basta juntar 2 pedaços de Pedregulho para obter gravetos de Pedra e usá-los para criar Tochas de Pedra!
 
 dj2.quest.db.855.title=Algo para fundir
 
@@ -3552,9 +3552,9 @@ dj2.quest.db.857.desc=Colha algumas Flores Amarelas (dentes-de-leão, girassóis
 
 dj2.quest.db.858.title=Forte como uma rocha
 
-dj2.quest.db.858.desc=Use a Obsidiana que você acabou de coletar para criar um conjunto completo de Armadura de Obsidiana! Ela é um pouco mais fraca que a Armadura de Ferro, mas a Obsidiana está facilmente disponível para minerar com Escavação de Minério a qualquer momento!
+dj2.quest.db.858.desc=Use a Obsidiana que você acabou de coletar para criar um conjunto completo de Armadura de Obsidiana! Ela é um pouco mais fraca que a Armadura de Ferro, mas a Obsidiana está facilmente disponível para minerar com Ore Excavator a qualquer momento!
 
-dj2.quest.db.859.title=Totem!
+dj2.quest.db.859.title=Totem-mente!
 
 dj2.quest.db.859.desc=Crie uma Faca de Entalhe de Totem para desbloquear o Capítulo 2: Dançando em um Poste de Totem!
 
@@ -3568,7 +3568,7 @@ dj2.quest.db.861.desc=Obtenha alguns Aprimoramentos de Armazenamento de Nível 5
 
 dj2.quest.db.862.title=Capacidade de fundição
 
-dj2.quest.db.862.desc=Use o Ferro que você obteve para criar 2 Barras de Ferro. Depois, minere bastante Pedregulho com o Escavador de Minério para comprimi-lo em Pedregulho Comprimido! Se não encontrar Pedregulho comum, saiba que você pode criar 4 blocos de qualquer tipo de Pedregulho de Underground Biomes em 4 blocos de Pedregulho, formando um quadrado na Janela de Criação. Com esses materiais, você finalmente poderá criar uma Fornalha!
+dj2.quest.db.862.desc=Use o Ferro que você obteve para criar 2 Hastes de Ferro. Depois, minere bastante Pedregulho com o Ore Excavator para comprimi-lo em Pedregulho Comprimido! Se não encontrar Pedregulho comum, saiba que você pode criar 4 blocos de qualquer tipo de Pedregulho de Underground Biomes em 4 blocos de Pedregulho, formando um quadrado na Janela de Criação. Com esses materiais, você finalmente poderá criar uma Fornalha!
 
 dj2.quest.db.863.title=Baús de Ferro
 
@@ -3576,7 +3576,7 @@ dj2.quest.db.863.desc=Confira o mod Iron Chests no JEI e avance até criar um Ba
 
 dj2.quest.db.864.title=Copérnico ficaria orgulhoso
 
-dj2.quest.db.864.desc=Mina um pouco de Cobre no subsolo! Ele é encontrado em altitudes mais elevadas, às vezes até exposto na superfície em blocos de Pedra! Depois, funda-o ou duplique o minério na Fundição!
+dj2.quest.db.864.desc=Minere um pouco de Cobre no subsolo! Ele é encontrado em altitudes mais elevadas, às vezes até exposto na superfície em blocos de Pedra! Depois, funda-o ou duplique o minério na Fundição!
 
 dj2.quest.db.865.title=O início da Criação de Ferramentas
 
@@ -3928,7 +3928,7 @@ dj2.quest.db.951.desc=Use um pouco de Cincinnasita, Aço, Constantan e Lava para
 
 dj2.quest.db.952.title=Cin- cinna- citcin… tanto faz.
 
-dj2.quest.db.952.desc=Mina um pouco de Minério de Cincinnasita no Nether! Ele pode ser afetado por Fortuna.
+dj2.quest.db.952.desc=Minere um pouco de Minério de Cincinnasita no Nether! Ele pode ser afetado por Fortuna.
 
 dj2.quest.db.953.title=Está ficando bem nublado
 
@@ -3940,7 +3940,7 @@ dj2.quest.db.954.desc=Entre no bioma Geleira! No meio dele, você encontrará o 
 
 dj2.quest.db.955.title=Olhe por onde pisa!
 
-dj2.quest.db.955.desc=Mina algumas Plantas de Ovo! Cuidado se estiver em um campo delas – elas vão envenenar você quando pisar nelas, porque têm%n%nVENENOOOO, esse VENENOOOO venenoso,%nE não sei quando vou%nAlguma vez pisar nelas%nPronto pra pisar a qualquer momento e eu%nAcho que está na hora de ir pegá-las%nElas não vão saber o que as atingiu%nQ-Q-Quando forem colhidas -%n%nVENENOOOO, esse VENENOOOO venenoso,%nE não sei quando vou%nAlguma vez pisar nelas%nPronto pra pisar a qualquer momento e eu%nAcho que está na hora de ir pegá-las%nElas não vão saber o que as atingiu%nQ-Q-Quando forem colhidas.
+dj2.quest.db.955.desc=Minere algumas Plantas de Ovo! Cuidado se estiver em um campo delas – elas vão envenenar você quando pisar nelas, porque têm%n%nVENENOOOO, esse VENENOOOO venenoso,%nE não sei quando vou%nAlguma vez pisar nelas%nPronto pra pisar a qualquer momento e eu%nAcho que está na hora de ir pegá-las%nElas não vão saber o que as atingiu%nQ-Q-Quando forem colhidas -%n%nVENENOOOO, esse VENENOOOO venenoso,%nE não sei quando vou%nAlguma vez pisar nelas%nPronto pra pisar a qualquer momento e eu%nAcho que está na hora de ir pegá-las%nElas não vão saber o que as atingiu%nQ-Q-Quando forem colhidas.
 
 dj2.quest.db.956.title=Coisa de cobra grandona
 
@@ -6992,7 +6992,7 @@ dj2.quest.db.1717.desc=O distúrbio de Thaumcraft acompanha você até Vethea �
 
 dj2.quest.db.1718.title=Faça uma caixa
 
-dj2.quest.db.1718.desc=Embora a caixa “pequena” armazene apenas 9 espaços a mais, totalizando 117 pilhas, ela é superior a um baú em outros aspectos:%n- É um bloco inteiro e pode ser aberta mesmo sob um bloco sólido%n- Ela pode ser aprimorada para os tamanhos médio e grande, que armazenam *2 e *3 em comparação com a “pequena”%n- Usando o Guardião de Caixas de Armazenamento, desbloqueado no Capítulo 3, ela pode ser movida com muito mais facilidade do que os baús.
+dj2.quest.db.1718.desc=Embora a caixa “pequena” armazene apenas 9 espaços a mais, totalizando 117 pilhas, ela é superior a um baú em outros aspectos:%n- É um bloco inteiro e pode ser aberta mesmo sob um bloco sólido%n- Ela pode ser aprimorada para os tamanhos médio e grande, que armazenam 2x e 3x em comparação com a “pequena”%n- Usando o Guardião de Caixas de Armazenamento, desbloqueado no Capítulo 3, ela pode ser movida com muito mais facilidade do que os baús.
 
 dj2.quest.db.1719.title=Apagando
 
