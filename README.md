@@ -4,6 +4,8 @@ Este repositório contém a tradução para o português do Brasil do livro de m
 
 Fiz a tradução para a versão 2.23.4. Se você usar em outra versão, algumas quests podem ficar em inglês ou apresentar erros de leitura.
 
+![Imagem mostrando o quest book do Divine Journey 2 em português](image/dj2-questbook-ptbr.png)
+
 ## Como instalar
 
 1. Baixe o arquivo `pt_br.lang` aqui do repositório.
